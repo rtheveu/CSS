@@ -1,0 +1,1 @@
+document.write("j'ai réussi ou pas ?");
